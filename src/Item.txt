@@ -1,0 +1,16 @@
+1001#The reference book with advanced grammar and 100 units of grammar reference.#27.9
+1002#Books about the fine art of small talk and the best communication skills.#23.5
+1003#Series of fantasy novel talking about the journey of the magician.#39.5
+1004#A science reference book compatible with the latest format of KSSR.#21.9
+1005#The story is about a child that selling newspaper to cure her mother.#10.5
+1006#The strategy of the Sunzi art of war that can applied in the business.#22.9
+1007#Food recipe that consist of 200+ of Chinese and Western dessert recipes.#31.9
+1008#Coding skills in Java language to learn from basic to advance.#41.5
+1009#Comic book about the adventure journey of a magician with his pets.#12.9
+1010#A exercise consist of 100+ with advance solution and explanation.#9.9
+1011#Comic book about the journey of finding the true love.#10.0
+1012#A exercise book with pure science such as chemical, physic and biology.#9.9
+1029#The story about pirate and his sister#25.9
+1079#A story about the history of Egypt.#12.0
+1077#A recipe summarizing the French dessert.#34.9
+1029#The story about pirate and his brother.#12.7

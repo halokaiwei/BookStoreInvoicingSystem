@@ -1,0 +1,8 @@
+Lim Kok Kok#A1234#123456#manager
+Wong Mei Mei#A2124#908932#staff
+Chan Siew Mi#A0913#217381#manager
+Jonathan Tan#A7777#836452#staff
+Jasmine Pang#A6253#789011#manager
+Lee Hui Ling#A1212#278221#staff
+Kong Shu Qi#A1242#725361#manager
+Chew Seng Hao#A9988#990099#staff
